@@ -16,6 +16,6 @@ Running the Function
 
 To run the function, follow these steps:
 
-Open a terminal and navigate to the directory containing the function file
-Run the function using the node command and specifying the path to the function file: node path/to/report.js
-The function will create an excel report
+ - Open a terminal and navigate to the directory containing the function file
+ - Run the function using the node command and specifying the path to the function file: node path/to/report.js
+ - The function will create an excel report
